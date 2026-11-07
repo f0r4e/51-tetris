@@ -1,5 +1,4 @@
 /*A driver for hc595*/
-/*Author: f0r4e*/
 __sbit __at (0xB6) shiftRegisterClock;
 __sbit __at (0xB5) registerClockLatch;
 __sbit __at (0xB4) serialDataInput;
